@@ -17,7 +17,7 @@ An objective global ranking of colleges and their programs based solely on accep
 | 11 | University of Sydney |  | 30% | Australia |  | https://globalscholarships.com/universities-in-australia-lowest-acceptance-rates/ |
 | 12 | University of Cape Town |  | 51% | South Africa |  | https://careerkarma.com/blog/best-universities-in-africa/ |
 
-Background:
+## Background:
 
 The existing rankings are too subjective and biased. Since I am not racist or a xenophobe and see all people as equals and I do not believe in IQ tests, rather as fluid beings with persistent efforts shaping who we are, I believe in objectivity. 
 
@@ -28,7 +28,7 @@ The rationale is that concepts like race, gender, or ethnicity, and so on are hu
 I never found a purely objective global ranking, so I have made one myself. Everyone is free to contribute via pull requests.
 
 
-Note: 
+## Note: 
 1. Work in progress.
 2. You can edit this in VS Code. Use Ctrl+Shift+V to preview md.
 3. One rank per college sorted by the most selective program it has.
