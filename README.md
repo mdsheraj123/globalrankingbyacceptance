@@ -11,15 +11,18 @@ I never found a purely objective global ranking, so I have made one myself. Ever
 
 | Rank | College | Program | Acceptance Rate % | Year of data | Citations |
 |----------|----------|----------|----------|----------|----------|
-| 1  | BITS Pilani | Computer Science | 0.5% | 2023 | NONE |
-|   |  | Mechanical Engineering | 1% | 2023 | NONE |
-| 2  | Stanford | Computer Science | 4% | 2023 | NONE |
+| 1  | BITS Pilani | Computer Science, Pilani Campus | 0.5% |  | NONE |
+| 1  |  |  | 1.47% | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms |
+| 2  | IIT Bombay |  | 1.8% | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |
+| 2  | Stanford |  | 4.34% | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ |
+| 3  | Harvard University |  | 6% |  | https://www.oedb.org/rankings/acceptance-rate/ |
 
 
 Note: 
 1. Work in progress.
 2. You can edit this in VS Code. Use Ctrl+Shift+V to preview md.
 3. One rank per college sorted by the most selective program it has.
-4. Only colleges and programs currently operational.
+4. Only colleges and programs currently operational. We keep the latest data only.
+5. Non cited data is considered false.
 
 
