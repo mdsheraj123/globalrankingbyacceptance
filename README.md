@@ -5,7 +5,7 @@ An objective global ranking of colleges and their programs based solely on accep
 |----------|----------|----------|----------|----------|----------|----------|
 | 1  | Lal Bahadur Shastri National Academy of Administration | Indian Administrative Service | 0.001% | Musoorie, India | 2019 | https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/ |
 | 2  | National Defence Academy, Khadakwasla | Bachelor of Technology | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit |
-| 3  | BITS Pilani | Computer Science, Pilani Campus | 0.3% | Pilani, India |  | NONE |
+| 3  | BITS Pilani | Computer Science, Pilani Campus | 0.3% | Pilani, India |  | PLACEHOLDER |
 |   |  |  | 1.47% | India | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms |
 | 4  | IIT Bombay |  | 1.8% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |
 | 5  | Stanford |  | 4.34% | USA | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ |
