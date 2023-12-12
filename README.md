@@ -1,4 +1,4 @@
-# globalrankingbyacceptance
+# Objective Global College Rankings
 An objective global ranking of colleges and their programs based solely on acceptance rate (accepted/applied).
 
 The existing rankings are too subjective and biased. Since I am not racist or a xenophobe and see all people as equals and I do not believe in IQ tests, rather as fluid beings with persistent efforts shaping who we are, I believe in objectivity. 
@@ -12,6 +12,7 @@ I never found a purely objective global ranking, so I have made one myself. Ever
 | Rank | College | Program | Acceptance Rate % | Year of data | Citations |
 |----------|----------|----------|----------|----------|----------|
 | 1  | BITS Pilani | Computer Science | 0.5% | 2023 | NONE |
+|   |  | Mechanical Engineering | 1% | 2023 | NONE |
 | 2  | Stanford | Computer Science | 4% | 2023 | NONE |
 
 
