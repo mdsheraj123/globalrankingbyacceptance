@@ -9,14 +9,15 @@ The rationale is that concepts like race, gender, or ethnicity, and so on are hu
 I never found a purely objective global ranking, so I have made one myself. Everyone is free to contribute via pull requests.
 
 
-| Rank | College | Program | Acceptance Rate % | Year of data | Citations |
-|----------|----------|----------|----------|----------|----------|
-| 1  | BITS Pilani | Computer Science, Pilani Campus | 0.5% |  | NONE |
-| 1  |  |  | 1.47% | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms |
-| 2  | IIT Bombay |  | 1.8% | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |
-| 2  | Stanford |  | 4.34% | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ |
-| 3  | Harvard University |  | 6% |  | https://www.oedb.org/rankings/acceptance-rate/ |
-
+| Rank | College | Program | Acceptance Rate % | Location | Year of data | Citations |
+|----------|----------|----------|----------|----------|----------|----------|
+| 1  | BITS Pilani | Computer Science, Pilani Campus | 0.3% | Pilani, India |  | NONE |
+| 1  |  |  | 1.47% | India | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms |
+| 2  | IIT Bombay |  | 1.8% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |
+| 3  | Stanford |  | 4.34% | USA | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ |
+| 4  | Harvard University |  | 6% | USA |  | https://www.oedb.org/rankings/acceptance-rate/ |
+| 5  | Peking University |  | 15% | China |  | https://www.istudy-china.com/10-china-universities-with-lowest-acceptance-rates/ |
+| 6  | Seoul National University |  | 17% | South Korea |  | https://edurank.org/geo/kr/ |
 
 Note: 
 1. Work in progress.
