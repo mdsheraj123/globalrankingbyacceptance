@@ -16,8 +16,14 @@ I never found a purely objective global ranking, so I have made one myself. Ever
 | 2  | IIT Bombay |  | 1.8% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |
 | 3  | Stanford |  | 4.34% | USA | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ |
 | 4  | Harvard University |  | 6% | USA |  | https://www.oedb.org/rankings/acceptance-rate/ |
-| 5  | Peking University |  | 15% | China |  | https://www.istudy-china.com/10-china-universities-with-lowest-acceptance-rates/ |
-| 6  | Seoul National University |  | 17% | South Korea |  | https://edurank.org/geo/kr/ |
+| 5  | University of Sao Paulo |  | 9%  | Brazil |  | https://edurank.org/geo/br/ |
+| 6  | Tokyo Institute of Technology |  | 10% | Japan |  | https://globalscholarships.com/universities-in-japan-lowest-acceptance-rates/ |
+| 7  | Moscow State University |  | 12% | Russia |  | https://edurank.org/geo/ru/ |
+| 8  | Peking University |  | 15% | China |  | https://www.istudy-china.com/10-china-universities-with-lowest-acceptance-rates/ |
+| 9  | Seoul National University |  | 17% | South Korea |  | https://edurank.org/geo/kr/ |
+| 10 | University of Oxford |  | 18% | United Kingdom |  | https://edurank.org/geo/eu/ |
+| 11 | University of Sydney |  | 30% | Australia |  | https://globalscholarships.com/universities-in-australia-lowest-acceptance-rates/ |
+| 12 | University of Cape Town |  | 51% | South Africa |  | https://careerkarma.com/blog/best-universities-in-africa/ |
 
 Note: 
 1. Work in progress.
