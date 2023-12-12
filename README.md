@@ -4,7 +4,7 @@ An objective global ranking of colleges and their programs based solely on accep
 | Rank | College | Program | Acceptance Rate % | Location | Year of data | Citations |
 |----------|----------|----------|----------|----------|----------|----------|
 | 1  | Lal Bahadur Shastri National Academy of Administration | IAS | 0.001% | Musoorie, India | 2019 | https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/ |
-| 2  | NDA Khadakwasla | BTech | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit |
+| 2  | National Defence Academy, Khadakwasla | BTech | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit |
 | 3  | BITS Pilani | Computer Science, Pilani Campus | 0.3% | Pilani, India |  | NONE |
 |   |  |  | 1.47% | India | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms |
 | 4  | IIT Bombay |  | 1.8% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |
