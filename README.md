@@ -3,8 +3,8 @@ An objective global ranking of colleges and their programs based solely on accep
 
 | Rank | College | Program | Acceptance Rate % | Location | Year of data | Citations | Notes |
 |----------|----------|----------|----------|----------|----------|----------|----------|
-| 1  | Lal Bahadur Shastri National Academy of Administration | Indian Administrative Service | 0.1% | Musoorie, India | 2019 | https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/ | Leads to a government job |
-| 2  | National Defence Academy, Khadakwasla | Bachelor of Technology | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit | Leads to a government job |
+| 1  | Lal Bahadur Shastri National Academy of Administration | Indian Administrative Service | 0.1% | Musoorie, India | 2019 | https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/ | Leads to a direct government job |
+| 2  | National Defence Academy, Khadakwasla | Bachelor of Technology | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit | Leads to a direct government job |
 | 3  | BITS Pilani | Computer Science, Pilani Campus | 0.2% | Pilani, India |  | PLACEHOLDER | | 
 |   |  |  | 1.47% | India | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms | |
 | 4  | IIT Bombay |  | 1.8% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ | The B.Tech. Computer science program is likely to be the most selective |
