@@ -8,7 +8,7 @@ An objective global ranking of colleges and their programs based solely on accep
 | 3  | BITS Pilani | B.E. Computer Science, Pilani Campus | 0.2% | Pilani, India |  | PLACEHOLDER | Admission only on pure objective merit on MCQ test. No affirmative action or special seats. | 
 |   |  |  | 1.47% |  | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms | |
 | 4  | IIT Bombay | B.Tech. Computer Science | 0.2% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ | Unofficial figure |
-|   |  |  | 1.8% |  | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ | The B.Tech. Computer science program is likely to be the most selective |
+|   |  |  | 1.8% |  | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |  |
 | 5  | Stanford |  | 4.34% | USA | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ | |
 | 6  | Harvard University |  | 6% | USA |  | https://www.oedb.org/rankings/acceptance-rate/ | |
 | 7  | University of Sao Paulo |  | 9%  | Brazil |  | https://edurank.org/geo/br/ | |
