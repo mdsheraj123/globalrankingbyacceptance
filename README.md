@@ -9,16 +9,16 @@ An objective global ranking of colleges and their programs based solely on accep
 |   |  |  | 1.47% |  | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms | |
 | 4  | IIT Bombay | B.Tech. Computer Science | 0.2% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ | Unofficial figure |
 |   |  |  | 1.8% |  | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |  |
-| 5  | Stanford |  | 4.34% | USA | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ | Best in the North American continent. |
+| 5  | Stanford |  | 4.34% | USA | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ | The best in the North American continent. |
 | 6  | Harvard University |  | 6% | USA |  | https://www.oedb.org/rankings/acceptance-rate/ | |
-| 7  | University of Sao Paulo |  | 9%  | Brazil |  | https://edurank.org/geo/br/ | Best in the South American continent. |
+| 7  | University of Sao Paulo |  | 9%  | Brazil |  | https://edurank.org/geo/br/ | The best in the South American continent. |
 | 8  | Tokyo Institute of Technology |  | 10% | Japan |  | https://globalscholarships.com/universities-in-japan-lowest-acceptance-rates/ | |
 | 9  | Moscow State University |  | 12% | Russia |  | https://edurank.org/geo/ru/ | |
 | 10  | Peking University |  | 15% | China |  | https://www.istudy-china.com/10-china-universities-with-lowest-acceptance-rates/ | |
 | 11  | Seoul National University |  | 17% | South Korea |  | https://edurank.org/geo/kr/ | |
-| 12 | University of Oxford |  | 18% | United Kingdom |  | https://edurank.org/geo/eu/ | Best in the European continent. |
-| 13 | University of Sydney |  | 30% | Australia |  | https://globalscholarships.com/universities-in-australia-lowest-acceptance-rates/ | Best in the Australian continent. |
-| 14 | University of Cape Town |  | 51% | South Africa |  | https://careerkarma.com/blog/best-universities-in-africa/ | Best in the African continent. |
+| 12 | University of Oxford |  | 18% | United Kingdom |  | https://edurank.org/geo/eu/ | The best in the European continent. |
+| 13 | University of Sydney |  | 30% | Australia |  | https://globalscholarships.com/universities-in-australia-lowest-acceptance-rates/ | The best in the Australian continent. |
+| 14 | University of Cape Town |  | 51% | South Africa |  | https://careerkarma.com/blog/best-universities-in-africa/ | The best in the African continent. |
 
 ## Background:
 
