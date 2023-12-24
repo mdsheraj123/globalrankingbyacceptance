@@ -6,7 +6,7 @@ An objective global ranking of colleges and their programs based solely on accep
 | 1  | Lal Bahadur Shastri National Academy of Administration | Indian Administrative Service | 0.1% | Musoorie, India | 2019 | https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/ | Leads to a direct government job. The best in the world. |
 | 2  | National Defence Academy, Khadakwasla | Bachelor of Technology | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit | Leads to a direct government job |
 | 3  | BITS Pilani | B.E. Computer Science, Pilani Campus | 0.2% | Pilani, India |  | PLACEHOLDER | Admission only on pure objective merit on MCQ test. No affirmative action or special seats. | 
-|   |  |  | 1.47% |  | 2012 | https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms | |
+|   |  |  | 1.6% |  | 2022 | 1. https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms<br />2. https://www.yourroadabroad.com/acceptance-rate-of-bits-pilani/ | |
 | 4  | IIT Bombay | B.Tech. Computer Science | 0.2% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ | Unofficial figure |
 |   |  |  | 1.8% |  | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ |  |
 | 5  | Stanford |  | 4.34% | USA | 2023 | https://stanforddaily.com/2019/12/17/stanford-admit-rate-falls-to-record-low-4-34-for-class-of-2023/ | The best in the North American continent. |
