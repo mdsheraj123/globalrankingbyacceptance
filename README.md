@@ -13,10 +13,10 @@ An objective global ranking of colleges and their programs based solely on accep
 | 6  | Harvard University |  | 6% | USA |  | https://www.oedb.org/rankings/acceptance-rate/ | |
 | 7  | University of Sao Paulo |  | 9%  | Brazil |  | https://edurank.org/geo/br/ | The best in the South American continent. |
 | 8  | Tokyo Institute of Technology |  | 10% | Japan |  | https://globalscholarships.com/universities-in-japan-lowest-acceptance-rates/ | |
-| 9  | Moscow State University |  | 12% | Russia |  | https://edurank.org/geo/ru/ | |
+| 9  | Moscow State University |  | 12% | Russia |  | https://edurank.org/geo/ru/ | The best in the European continent. |
 | 10  | Peking University |  | 15% | China |  | https://www.istudy-china.com/10-china-universities-with-lowest-acceptance-rates/ | |
 | 11  | Seoul National University |  | 17% | South Korea |  | https://edurank.org/geo/kr/ | |
-| 12 | University of Oxford |  | 18% | United Kingdom |  | https://edurank.org/geo/eu/ | The best in the European continent. |
+| 12 | University of Oxford |  | 18% | United Kingdom |  | https://edurank.org/geo/eu/ | |
 | 13 | University of Sydney |  | 30% | Australia |  | https://globalscholarships.com/universities-in-australia-lowest-acceptance-rates/ | The best in the Australian continent. |
 | 14 | University of Cape Town |  | 51% | South Africa |  | https://careerkarma.com/blog/best-universities-in-africa/ | The best in the African continent. |
 
