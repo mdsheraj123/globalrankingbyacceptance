@@ -5,7 +5,7 @@ An objective global ranking of colleges and their programs based solely on accep
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | 1  | All India Institute of Medical Sciences (AIIMS) | MBBS | 0.08% | Delhi NCR, India |  | 1. https://www.univariety.com/college/All-India-Institute-of-Medical-Sciences-AIIMS-New-Delhi/3367de29<br />2. https://www.sup.org/books/title/?id=30638 | The best in the world. |
 | 2  | Lal Bahadur Shastri National Academy of Administration | Indian Administrative Service | 0.1% | Musoorie, India | 2019 | https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/ | Leads to a direct government job. |
-| 3  | National Defence Academy, Khadakwasla | Bachelor of Technology | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit | Leads to a direct government job |
+| 3  | National Defence Academy, Khadakwasla | Bachelor of Technology | 0.15% | Pune, India  |  | https://byjusexamprep.com/nda-exam/nda-vs-iit | Leads to a direct government job. Admission only on merit on standarized tests. No affirmative action or special seats. |
 | 4  | BITS Pilani | B.E. Computer Science, Pilani Campus | 0.2% | Pilani, India |  | PLACEHOLDER | Admission only on pure objective merit on MCQ test. No affirmative action or special seats. | 
 |   |  |  | 1.6% |  | 2022 | 1. https://www.businessinsider.in/tech/inside-the-worlds-most-exclusive-university-where-the-acceptance-rate-is-just-1-5/articleshow/59164594.cms<br />2. https://www.yourroadabroad.com/acceptance-rate-of-bits-pilani/ | |
 | 5  | IIT Bombay | B.Tech. Computer Science | 0.2% | Mumbai, India | 2023 | https://iitnotablealumni.com/indian-institute-of-technology-acceptance-rate/ | Unofficial figure |
