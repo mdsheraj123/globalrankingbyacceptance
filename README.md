@@ -22,7 +22,6 @@ An objective global ranking of colleges and their programs based solely on accep
 | 15 | University of Cape Town |  | 51% | South Africa |  | https://careerkarma.com/blog/best-universities-in-africa/ | The best in the African continent. |
 
 ## Background:
-
 The existing rankings are too subjective and biased. Since I am not racist or a xenophobe and see all people as equals and I do not believe in IQ tests, rather as fluid beings with persistent efforts shaping who we are, I believe in objectivity. 
 
 I judge the quality of a college by the acceptance rate of it. I have not taken into account pre-selection or ease of application as these are subjective and hard to quantify, also they are applicable to all for different reasons. This ranking is purely objective and data based and I hope you take this into consideration when you apply to a program at a college because this will impact the quality of your peer group.
@@ -40,3 +39,17 @@ I never found a purely objective global ranking, so I have made one myself. Ever
 5. Non cited data is considered false.
 
 
+## Update:
+I got some feedback after talking to people that ranking based on only one metric is isn't comprehensive.
+
+Hence, I have expanded this effort to include several objective metrics.
+People can check the metric based on the criteria they prefer. 
+
+This Requires a lot more work to get the data but still it is possible. Also the rankings would be objective.
+
+I do not want to create a combined metric based on a weightage like many do because the weightage would be subjective.
+
+
+Please check the different objective metrics in their own folders:
+
+1. [Global Ranking by Graduation Outcome of Income in Country](GlobalRankingByGraduationOutcome/README.md)
