@@ -13,7 +13,7 @@ An objective global ranking of colleges and their programs based solely on incom
 
 ## Background:
 
-Money is not everything but still it is objective so nice.
+Money is not everything but still it is objective, so it's nice.
 
 The country income multiplier will determine the quality of living straight after graduation.
 
