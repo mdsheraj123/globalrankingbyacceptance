@@ -40,7 +40,7 @@ I never found a purely objective global ranking, so I have made one myself. Ever
 
 
 ## Update:
-I got some feedback after talking to people that ranking based on only one metric is isn't comprehensive.
+I got some feedback after talking to people that ranking based on only one metric isn't comprehensive.
 
 Hence, I have expanded this effort to include several objective metrics.
 People can check the metric based on the criteria they prefer. 
