@@ -45,7 +45,7 @@ I got some feedback after talking to people that ranking based on only one metri
 Hence, I have expanded this effort to include several objective metrics.
 People can check the metric based on the criteria they prefer. 
 
-This Requires a lot more work to get the data but still it is possible. Also the rankings would be objective.
+This requires a lot more work to get the data but still it is possible. Also the rankings would be objective.
 
 I do not want to create a combined metric based on a weightage like many do because the weightage would be subjective.
 
