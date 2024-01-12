@@ -14,7 +14,7 @@ An objective global ranking of colleges and their programs based solely on accep
 | 7  | Harvard University |  | 6% | USA |  | https://www.oedb.org/rankings/acceptance-rate/ | |
 | 8  | University of Sao Paulo |  | 9%  | Brazil |  | https://edurank.org/geo/br/ | The best in the South American continent. |
 | 9  | Tokyo Institute of Technology |  | 10% | Japan |  | https://globalscholarships.com/universities-in-japan-lowest-acceptance-rates/ | |
-| 10  | Moscow State University |  | 12% | Russia |  | https://edurank.org/geo/ru/ | The best in the European continent. |
+| 10  | Moscow State University |  | 12% | Russia |  | https://edurank.org/geo/ru/ | The best in the European continent. The best in Russia. |
 | 11  | Peking University |  | 15% | China |  | https://www.istudy-china.com/10-china-universities-with-lowest-acceptance-rates/ | |
 | 12  | Seoul National University |  | 17% | South Korea |  | https://edurank.org/geo/kr/ | |
 | 13 | University of Oxford |  | 18% | United Kingdom |  | https://edurank.org/geo/eu/ | |
